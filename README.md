@@ -107,3 +107,7 @@ python3 -m unittest -v
 ## License
 
 MIT (c) TPOALOS
+
+---
+
+**More tools by [TPOALOS](https://github.com/TPOALOS):** [iamlint](https://github.com/TPOALOS/iamlint) · [apispec-lint](https://github.com/TPOALOS/apispec-lint) · [zonelint](https://github.com/TPOALOS/zonelint) · [all 61 tools](https://tpoalos.github.io)
